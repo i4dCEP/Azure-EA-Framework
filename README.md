@@ -1,7 +1,6 @@
 **Azure Enterprise Agreemant (EA) Scaffold & Governance Framework**
 
 🌱  Azure EA & MG Structure with defined RBAC (Super Admin Level Controls)
-
       - Departments / Oranisations (Spend Limits & Department Level Admin Controls)
       - Accounts (Account Level Service Admin Controls)
       - Subscriptions (Environment Level Admin Controls)
