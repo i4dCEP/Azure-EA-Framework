@@ -17,4 +17,4 @@
 * **Resource Group Model with defined RBAC (Resource Group Level Admin Controls)**
   * **Service / Application wise Resource Groups** (Owner/Contributor/Reader Level Controls)
     * IaaS / PaaS Workloads/Services, Compute, HDD/SSD Disks, Storage, Network, NIC’s, ILB/ELB’s, NSG’s, WAF, API’s, Security, Automation, etc.
-* **Please refer to the ttached "Azure EA Framework-v1.0(GitHub).pdf"**
+* **Please refer to the attached "[Azure EA Framework-v1.0(GitHub).pdf](https://github.com/i4dCEP/Azure-EA-Framework/blob/main/Azure%20EA%20Framework-v1.0(GitHub).pdf)"**
